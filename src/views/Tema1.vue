@@ -174,36 +174,36 @@
               img(src='@/assets/curso/tema1/img16.png', alt='' style="max-width: 250px").m-auto
           .col-xl-8(data-aos="fade-left")
             SlyderF(columnas="col-lg-4 col-xl-4")
-              .tarjeta.color-acento-botones.p-4
+              .tarjeta.color-color-white.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema1/img2.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Organización lógica
-                p.mb-0.text-center Disposición ordenada de los componentes del proyecto.
-              .tarjeta.color-acento-botones.p-4
+                h4.mb-3.text-center Concepto
+                p.mb-0.text-center Incremento promedio de peso por individuo en un período determinado.
+              .tarjeta.color-color-white.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema1/img3.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Secuencialidad
-                p.mb-0.text-center Desarrollo progresivo de acciones conforme a un orden definido.
-              .tarjeta.color-acento-botones.p-4
+                h4.mb-3.text-center Cálculo general
+                p.mb-0.text-center GDP = (Peso final - Peso inicial) / Días del período
+              .tarjeta.color-color-white.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema1/img4.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Delimitación de responsabilidades
-                p.mb-0.text-center Asignación clara de funciones y tareas.
-              .tarjeta.color-acento-botones.p-4
+                h4.mb-3.text-center Cálculo alternativo
+                p.mb-0.text-center GDP = Incremento en biomasa / Número de peces
+              .tarjeta.color-color-white.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema1/img5.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Priorización
-                p.mb-0.text-center Determinación de qué acciones deben ejecutarse primero.
-              .tarjeta.color-acento-botones.p-4
+                h4.mb-3.text-center Importancia
+                p.mb-0.text-center Facilita la proyección de tiempos de cosecha, programación de mercado y planificación financiera.
+              .tarjeta.color-color-white.p-4
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/tema1/img5.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Control y seguimiento
-                p.mb-0.text-center Establecimiento de mecanismos para evaluar avances.
+                h4.mb-3.text-center Obtención del dato
+                p.mb-0.text-center Se calcula a partir de pesajes periódicos y registros cronológicos del ciclo productivo
 
 
 
