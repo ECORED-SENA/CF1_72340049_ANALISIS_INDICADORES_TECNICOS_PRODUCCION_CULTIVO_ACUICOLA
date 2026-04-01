@@ -174,7 +174,7 @@
                   img(src='@/assets/curso/tema2/img9.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Alteraciones en calidad del agua
+                h4 Alteraciones en la calidad del agua
                 p #[b Variable]: OD, pH o amonio fuera de rango.
                 p.mb-0 #[b Impacto]: reduce crecimiento y consumo.
               .col-xl-6
