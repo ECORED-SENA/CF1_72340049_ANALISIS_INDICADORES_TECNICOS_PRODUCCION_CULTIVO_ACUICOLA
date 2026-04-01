@@ -35,7 +35,7 @@
     p.mb-5 Se invita al aprendiz a explorar el siguiente video, donde se presenta un ejercicio práctico orientado a comprender la aplicación de herramientas matemáticas en el análisis de indicadores técnicos de la producción acuícola. 
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=kWNrf2EiD1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kWNrf2EiD1I?si=PEyCQAL13tjvkakL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]: cálculo del peso promedio de peces.
 </template>
 

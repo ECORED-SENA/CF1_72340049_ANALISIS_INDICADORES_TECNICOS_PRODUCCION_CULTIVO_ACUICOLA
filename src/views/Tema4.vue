@@ -139,7 +139,7 @@
               img(src='@/assets/curso/tema4/img16.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura Uso de hojas de cálculo
-            p.mb-0 Herramientas como #[i Excel] o #[i software] especializado permiten organizar, procesar y visualizar los datos de manera eficiente.
+            p.mb-0 Herramientas como Excel o #[i software] especializado permiten organizar, procesar y visualizar los datos de manera eficiente.
       .py-3.py-md-4(titulo="Construcción de gráficos")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1

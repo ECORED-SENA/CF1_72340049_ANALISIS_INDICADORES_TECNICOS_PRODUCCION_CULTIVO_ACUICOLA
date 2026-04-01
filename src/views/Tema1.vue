@@ -44,7 +44,7 @@
                   img(src='@/assets/curso/tema1/img4.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4.mb-md-0
-                h4 Importancia y productiva
+                h4 Importancia productiva
                 p.mb-0 Permiten realizar la evaluación económica y financiera del cultivo, facilitar la detección temprana de problemas productivos, optimizar el uso de los recursos disponibles, asegurar el cumplimiento normativo y fortalecer la gestión documental, contribuyendo a una administración técnica y eficiente del sistema productivo.
               .col-xl-6
                 figure
@@ -68,7 +68,7 @@
               img(src='@/assets/curso/tema1/img6.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura Productivos
-            p.mb-0 Evalúa el rendimiento del cultivo. Ejemplos: Factor de conversión alimenticia (FCA), tasa de crecimiento, biomasa y ganancia de peso. Su importancia está en que determinan la eficiencia productiva y rentabilidad.
+            p.mb-0 Evalúa el rendimiento del cultivo. Ejemplos: Factor de conversión alimenticia (FCA), tasa de crecimiento, biomasa y ganancia de peso. Su importancia está en que determinan la eficiencia productiva y la rentabilidad.
       .py-3.py-md-4(titulo="Sanitarios")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
@@ -84,7 +84,7 @@
               img(src='@/assets/curso/tema1/img8.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura Ambientales
-            p.mb-0 Evalúa la calidad del agua o medio acuático. Ejemplos: oxígeno disuelto, la temperatura del agua, pH, amonio y nitritos. Es importante porque garantiza el bienestar animal y crecimiento adecuado.
+            p.mb-0 Evalúa la calidad del agua o medio acuático. Ejemplos: oxígeno disuelto, la temperatura del agua, pH, amonio y nitritos. Es importante porque garantiza el bienestar animal y el crecimiento adecuado.
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Principales indicadores productivos 
@@ -95,7 +95,7 @@
           img(src="@/assets/curso/tema1/img18.svg" style="max-width: 60px").m-auto
       .col
         h3 Factor de Conversión Alimenticia (FCA)
-    p.mb-5 El #[b Factor de Conversión Alimenticia (FCA)] expresa la relación entre la cantidad total de alimento suministrado y el incremento de biomasa logrado en el lote durante un período determinado. Constituye uno de los indicadores más relevantes en la gestión técnica y financiera del cultivo Antes de presentar los elementos clave, se sintetiza la información principal: 
+    p.mb-5 El #[b Factor de Conversión Alimenticia (FCA)] expresa la relación entre la cantidad total de alimento suministrado y el incremento de biomasa logrado en el lote durante un período determinado. Constituye uno de los indicadores más relevantes en la gestión técnica y financiera del cultivo. Antes de presentar los elementos clave, se sintetiza la información principal: 
     .bg-slider.mb-5
       .px-5
         .ajuste-slider(data-aos="zoom-in")
@@ -305,7 +305,7 @@
               figure.mb-4
                 img(src='@/assets/curso/tema1/img23.png', alt="" ).m-auto
             h4.text-center Cálculo
-            p.mb-0.text-center Biomasa = a Peso promedio individual x Numero de organismos vivos. 
+            p.mb-0.text-center Biomasa = a Peso promedio individual x Número de organismos vivos. 
       .col-xl-3.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-tema1-2.h-100
           .row.justify-content-center.mb-3
@@ -400,7 +400,7 @@
     .caja-tema1-3.mb-5(data-aos="flip-up")
       .row.align-items-center
         .col-xl.col-md-10.order-2.order-lg-1
-          p.mb-0 Una vez conocidos los indicadores técnicos productivos, se da paso a los indicadores sanitarios, que son los que permiten evaluar el estado de salud del cultivo y constituyen un componente clave en los programas de vigilancia epidemiológica exigidos por el ICA. Estos, se detallarán a continuación:
+          p.mb-0 Una vez conocidos los indicadores técnicos productivos, se da paso a los indicadores sanitarios, que son los que permiten evaluar el estado de salud del cultivo y constituyen un componente clave en los programas de vigilancia epidemiológica exigidos por el ICA. Estos se detallarán a continuación:
         .col-xl-auto.col-md-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
           figure
             img(src='@/assets/curso/tema1/img37.svg', alt='' style="width: 85px").m-auto
@@ -424,7 +424,7 @@
                 span.fa-li
                   i.fas.fa-arrow-alt-circle-right
                 | #[b Obtención]: se registra diariamente y se consolida en informes periódicos.
-          .row(titulo="Incidencia de enfermedadO").ajuste-cajaAcordion
+          .row(titulo="Incidencia de enfermedad").ajuste-cajaAcordion
             ul.fa-ul.mb-3
               li.mb-1
                 span.fa-li

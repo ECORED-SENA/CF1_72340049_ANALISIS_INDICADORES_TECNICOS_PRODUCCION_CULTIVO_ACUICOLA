@@ -123,23 +123,23 @@
                 th.texto-left OD
             tbody
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla 1
-                td.ajuste-border-tabla 15
-                td.ajuste-border-tabla 1.4
-                td.ajuste-border-tabla 98
-                td 6.5
+                td.ajuste-border-tabla.texto-left 1
+                td.ajuste-border-tabla.texto-left 15
+                td.ajuste-border-tabla.texto-left 1.4
+                td.ajuste-border-tabla.texto-left 98
+                td.texto-left 6.5
               tr
-                td.ajuste-border-tabla 4
-                td.ajuste-border-tabla 85
-                td.ajuste-border-tabla 1.6
-                td.ajuste-border-tabla 95
-                td 5.8
+                td.ajuste-border-tabla.texto-left 4
+                td.ajuste-border-tabla.texto-left 85
+                td.ajuste-border-tabla.texto-left 1.6
+                td.ajuste-border-tabla.texto-left 95
+                td.texto-left 5.8
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla 8
-                td.ajuste-border-tabla 210
-                td.ajuste-border-tabla 1.9
-                td.ajuste-border-tabla 88
-                td 4.9
+                td.ajuste-border-tabla.texto-left 8
+                td.ajuste-border-tabla.texto-left 210
+                td.ajuste-border-tabla.texto-left 1.9
+                td.ajuste-border-tabla.texto-left 88
+                td.texto-left 4.9
     .caja-tema2-2.mb-0(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.col-md-2.mb-3.mb-lg-0(data-aos="fade-right")

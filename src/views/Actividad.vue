@@ -35,25 +35,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Registros financieros y administrativos del proceso productivo del cultivo.',
+                'Registros financieros y administrativos del proceso productivo del cultivo',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Instrumentos de medición cuantitativa del desempeño del cultivo.',
+                'Instrumentos de medición cuantitativa del desempeño del cultivo',
               esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'Métodos de cosecha manual o artesanal utilizados en sistemas acuícolas.',
+                'Métodos de cosecha manual o artesanal utilizados en sistemas acuícolas',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Sistemas de comercialización y distribución de productos acuícolas.',
+                'Sistemas de comercialización y distribución de productos acuícolas',
               esCorrecta: false,
             },
           ],
@@ -69,25 +69,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Transformar datos en información útil para decisiones técnicas.',
+                'Transformar datos en información útil para decisiones técnicas',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Reducir o disminuir gradualmente el trabajo manual, en la medida de lo posible.',
+                'Reducir o disminuir gradualmente el trabajo manual, en la medida de lo posible',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Aumentar la densidad de siembra para analizar los resultados experimentales.',
+                'Aumentar la densidad de siembra para analizar los resultados experimentales',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Disminuir el uso de tecnología e implementar más herramientas artesanales.',
+                'Disminuir el uso de tecnología e implementar más herramientas artesanales',
               esCorrecta: false,
             },
           ],
@@ -103,22 +103,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'FAO.',
+              texto: 'FAO',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'ICA.',
+              texto: 'ICA',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'AUNAP.',
+              texto: 'AUNAP',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Ministerio de Ambiente.',
+              texto: 'Ministerio de Ambiente',
               esCorrecta: false,
             },
           ],
@@ -133,7 +133,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Temperatura del agua.',
+              texto: 'Temperatura del agua',
               esCorrecta: false,
             },
             {
@@ -143,12 +143,12 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Factor de Conversión Alimenticia (FCA).',
+              texto: 'Factor de Conversión Alimenticia (FCA)',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'pH.',
+              texto: 'pH',
               esCorrecta: false,
             },
           ],
@@ -163,23 +163,23 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'La cantidad de peces sembrados en lagos.',
+              texto: 'La cantidad de peces sembrados en lagos',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La calidad del agua, indispensable para desarrollo.',
+              texto: 'La calidad del agua, indispensable para desarrollo',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La relación entre alimento suministrado y biomasa obtenida.',
+                'La relación entre alimento suministrado y biomasa obtenida',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'El número de enfermedades y patógenos.',
+              texto: 'El número de enfermedades y patógenos',
               esCorrecta: false,
             },
           ],
@@ -195,22 +195,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Biomasa.',
+              texto: 'Biomasa',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Supervivencia.',
+              texto: 'Supervivencia',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Morbilidad.',
+              texto: 'Morbilidad',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'GDP.',
+              texto: 'GDP',
               esCorrecta: false,
             },
           ],
@@ -225,22 +225,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Medir mortalidad diaria o semanal.',
+              texto: 'Medir mortalidad diaria o semanal',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Calcular o determinar el oxígeno disuelto.',
+              texto: 'Calcular o determinar el oxígeno disuelto',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Evaluar costos administrativos asociados.',
+              texto: 'Evaluar costos administrativos asociados',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Comparar el crecimiento entre lotes.',
+              texto: 'Comparar el crecimiento entre lotes',
               esCorrecta: true,
             },
           ],
@@ -256,22 +256,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'pH.',
+              texto: 'pH',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Temperatura.',
+              texto: 'Temperatura',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Oxígeno disuelto.',
+              texto: 'Oxígeno disuelto',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Nitritos.',
+              texto: 'Nitritos',
               esCorrecta: false,
             },
           ],
@@ -286,22 +286,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Mejor crecimiento y rendimiento.',
+              texto: 'Mejor crecimiento y rendimiento',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Problemas sanitarios o ambientales.',
+              texto: 'Problemas sanitarios o ambientales',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Alta eficiencia alimenticia y climática.',
+              texto: 'Alta eficiencia alimenticia y climática',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Buen manejo nutricional y desarrollo.',
+              texto: 'Buen manejo nutricional y desarrollo',
               esCorrecta: false,
             },
           ],
@@ -317,22 +317,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Circular.',
+              texto: 'Circular',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Histograma.',
+              texto: 'Histograma',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Línea.',
+              texto: 'Línea',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Radar.',
+              texto: 'Radar',
               esCorrecta: false,
             },
           ],
@@ -347,22 +347,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Recolección, validación y análisis de datos.',
+              texto: 'Recolección, validación y análisis de datos',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Solo almacenamiento de datos existentes.',
+              texto: 'Solo almacenamiento de datos existentes',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Únicamente cálculos matemáticos y asociados.',
+              texto: 'Únicamente cálculos matemáticos y asociados',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Solo registros manuales tomados por el operario.',
+              texto: 'Solo registros manuales tomados por el operario',
               esCorrecta: false,
             },
           ],
@@ -378,22 +378,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Improvisación.',
+              texto: 'Improvisación',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Rapidez sin control.',
+              texto: 'Rapidez sin control',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Exactitud.',
+              texto: 'Exactitud',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Subjetividad.',
+              texto: 'Subjetividad',
               esCorrecta: false,
             },
           ],
@@ -408,22 +408,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Reducir costos laborales y administrativos.',
+              texto: 'Reducir costos laborales y administrativos',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Incrementar densidad automáticamente.',
+              texto: 'Incrementar densidad automáticamente',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Seguir el historial productivo del lote.',
+              texto: 'Seguir el historial productivo del lote',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Evitar registros y duplicidad de información.',
+              texto: 'Evitar registros y duplicidad de información',
               esCorrecta: false,
             },
           ],
@@ -439,22 +439,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Diseño del mercado, análisis del sector y demanda.',
+              texto: 'Diseño del mercado, análisis del sector y demanda',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Factores ambientales, nutricionales y sanitarios.',
+              texto: 'Factores ambientales, nutricionales y sanitarios',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Publicidad del producto, promoción y plaza.',
+              texto: 'Publicidad del producto, promoción y plaza',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Transporte comercial, distribución y recibo en punto.',
+              texto: 'Transporte comercial, distribución y recibo en punto',
               esCorrecta: false,
             },
           ],
@@ -469,22 +469,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Organizar y analizar datos productivos.',
+              texto: 'Organizar y analizar datos productivos',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Solo escribir textos información aleatoria.',
+              texto: 'Solo escribir textos información aleatoria',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reemplazar mediciones eventualmente.',
+              texto: 'Reemplazar mediciones eventualmente',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Evitar registros técnicos y administrativos.',
+              texto: 'Evitar registros técnicos y administrativos',
               esCorrecta: false,
             },
           ],
@@ -501,25 +501,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Evaluar crecimiento y calcular indicadores productivos del cultivo.',
+                'Evaluar crecimiento y calcular indicadores productivos del cultivo',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Registrar únicamente eventos externos del entorno del sistema productivo.',
+                'Registrar únicamente eventos externos del entorno del sistema productivo',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Determinar únicamente condiciones climáticas externas del cultivo.',
+                'Determinar únicamente condiciones climáticas externas del cultivo',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Reducir exclusivamente el uso de alimento en el sistema productivo.',
+                'Reducir exclusivamente el uso de alimento en el sistema productivo',
               esCorrecta: false,
             },
           ],
@@ -536,25 +536,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Eliminar completamente registros antiguos sin análisis técnico previo.',
+                'Eliminar completamente registros antiguos sin análisis técnico previo',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Reducir el uso de herramientas digitales en el manejo del cultivo.',
+                'Reducir el uso de herramientas digitales en el manejo del cultivo',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Asegurar datos confiables mediante revisión y corrección sistemática.',
+                'Asegurar datos confiables mediante revisión y corrección sistemática',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Evitar el registro continuo de datos durante el ciclo productivo.',
+                'Evitar el registro continuo de datos durante el ciclo productivo',
               esCorrecta: false,
             },
           ],
@@ -571,25 +571,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Almacenar datos sin realizar ningún tipo de análisis o interpretación.',
+                'Almacenar datos sin realizar ningún tipo de análisis o interpretación',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Reemplazar completamente los registros físicos del sistema productivo.',
+                'Reemplazar completamente los registros físicos del sistema productivo',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Interpretar datos para apoyar decisiones técnicas del cultivo acuícola.',
+                'Interpretar datos para apoyar decisiones técnicas del cultivo acuícola',
               esCorrecta: true,
             },
             {
               id: 'd',
               texto:
-                'Evitar el uso de indicadores en la gestión del cultivo acuícola.',
+                'Evitar el uso de indicadores en la gestión del cultivo acuícola',
               esCorrecta: false,
             },
           ],
@@ -605,25 +605,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Eliminar controles técnicos dentro del sistema productivo acuícola.',
+                'Eliminar controles técnicos dentro del sistema productivo acuícola',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Respaldar decisiones mediante registros verificables del proceso productivo.',
+                'Respaldar decisiones mediante registros verificables del proceso productivo',
               esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'Reducir la importancia de los datos en la gestión del cultivo acuícola.',
+                'Reducir la importancia de los datos en la gestión del cultivo acuícola',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Evitar el cumplimiento de normas en la producción acuícola sostenible.',
+                'Evitar el cumplimiento de normas en la producción acuícola sostenible',
               esCorrecta: false,
             },
           ],
@@ -640,25 +640,25 @@ export default {
             {
               id: 'a',
               texto:
-                'Servir como referencia para evaluar y monitorear el desempeño del cultivo.',
+                'Servir como referencia para evaluar y monitorear el desempeño del cultivo',
               esCorrecta: true,
             },
             {
               id: 'b',
               texto:
-                'Reemplazar completamente los indicadores técnicos del sistema acuícola.',
+                'Reemplazar completamente los indicadores técnicos del sistema acuícola',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Eliminar la necesidad de registros en el manejo del cultivo acuícola.',
+                'Eliminar la necesidad de registros en el manejo del cultivo acuícola',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Reducir el uso de datos en la toma de decisiones técnicas del cultivo.',
+                'Reducir el uso de datos en la toma de decisiones técnicas del cultivo',
               esCorrecta: false,
             },
           ],
